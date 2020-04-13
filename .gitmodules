@@ -1,0 +1,3 @@
+[submodule "python-tuya"]
+	path = python-tuya
+	url = ../../clach04/python-tuya.git
